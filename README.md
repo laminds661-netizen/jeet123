@@ -36,7 +36,7 @@ To gain real-world experience, improve my frontend development skills, and contr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Jeet's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laminds661-netizen&show_icons=true&theme=radical" alt="Jeet's GitHub Stats"/>
 </p>
 
 ---
