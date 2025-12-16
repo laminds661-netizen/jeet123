@@ -44,5 +44,5 @@ To gain real-world experience, improve my frontend development skills, and contr
 ## 🏆 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=laminds661-netizen&style=flat-square&color=blue" alt="profile views"/>
 </p>
