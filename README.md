@@ -8,14 +8,13 @@
 ## 💻 Skills & Technologies
 
 <p align="left">
-  <!-- Animated Logos -->
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.gif" width="40" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/css/css.gif" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.gif" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/react/react.gif" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/bootstrap/bootstrap.gif" width="40" height="40" title="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/git/git.gif" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/github/github.gif" width="40" height="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
 </p>
 
 📱 Responsive Web Design
